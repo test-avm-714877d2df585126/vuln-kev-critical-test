@@ -9,7 +9,7 @@
     "minimatch": "3.0.4",
     "jsonwebtoken": "8.5.1",
     "node-forge": "1.2.1",
-    "xml2js": "0.4.19"
+    "xml2js": "0.6.2"
   },
   "devDependencies": {
     "mocha": "^10.2.0"
