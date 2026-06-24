@@ -1,0 +1,17 @@
+{
+  "name": "vuln-kev-critical-test",
+  "version": "1.0.0",
+  "description": "Test repo with CISA KEV + CVSS 9+ vulnerabilities",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "minimatch": "3.0.4",
+    "jsonwebtoken": "8.5.1",
+    "node-forge": "1.2.1",
+    "xml2js": "0.4.19"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
